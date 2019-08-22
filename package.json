@@ -1,0 +1,28 @@
+{
+  "name": "js-signup",
+  "version": "1.0.0",
+  "description": "A SignUp Form with JS and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DittmannS/JS-SignUp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DittmannS/JS-SignUp/issues"
+  },
+  "homepage": "https://github.com/DittmannS/JS-SignUp#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "express": "^4.17.1",
+    "joi": "^14.3.1",
+    "joi-object-id-extention": "^1.0.2",
+    "joi-objectid": "^2.0.0",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.6.10"
+  }
+}
